@@ -1,14 +1,7 @@
-/* this will style all h1 elements with color red */
-h1 {
-    color: red
-}
 
-/* this will style all h2 elements with color blue */
-h2 {
-    color: blue
-}
-
-/* this will make the page background black */
 body {
-    background-color: black; /* bc dark mode 4 teh youngs */
+    background-color: silver;
+	color: red;
+	font-family: Georgia, serif;
 }
+
